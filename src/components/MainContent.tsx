@@ -14,6 +14,7 @@ function MainContent(): JSX.Element {
   return (
     <main>
       <section>
+        <h1>THIS IS A CHANGE TO TEST THE MERGE REQUEST</h1>
         <h2>About Me</h2>
         <p>Hi! My name is Nichard Rg.</p>
         <p>
